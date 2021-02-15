@@ -1,16 +1,13 @@
-### Hi there 👋
+### Tisseur de liens
+- :man_teacher: Maître de Conférences en informatique [UT3PaulSabatier](https://www.univ-tlse3.fr) / [UPSSITECH](https://www.upssitech.eu) / [IRIT](https://www.irit.fr)
+- :cop: [Gendarme](https://www.gendarmerie.interieur.gouv.fr) (Réserve Opérationnelle), 
+- [Scout](https://www.sgdf.fr)
+- 	:martial_arts_uniform: :cherry_blossom: [Taï Jitsuka](https://www.nihon-tai-jitsu.fr) 
+
+et plein d'autres choses :smile: !
 
 <!--
-**truillet/truillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
+
+

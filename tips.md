@@ -3,6 +3,7 @@
 * [se connecter à eduroam](https://cat.eduroam.org)
 * [Github for Education](https://education.github.com)
 * [Office 365 (en ligne)](https://www.office.com)
+* [outils autodusk EDU](https://www.autodesk.com/education/about-autodesk-education)
 * VPN Université Toulouse 3
 * accéder aux machines de TP de l'UT3
 

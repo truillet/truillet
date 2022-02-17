@@ -10,4 +10,4 @@ et plein d'autres choses :smile: !
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=truillet)
+https://github-readme-stats.vercel.app/api?username=truillet
